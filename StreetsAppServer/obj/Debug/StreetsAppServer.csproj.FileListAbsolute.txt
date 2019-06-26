@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppServer\bin\Debug\StreetsAppServer.exe.config
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppServer\bin\Debug\StreetsAppServer.exe
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppServer\bin\Debug\StreetsAppServer.pdb
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppServer\obj\Debug\StreetsAppServer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppServer\obj\Debug\StreetsAppServer.exe
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppServer\obj\Debug\StreetsAppServer.pdb
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppServer\obj\Debug\StreetsAppServer.csprojAssemblyReference.cache

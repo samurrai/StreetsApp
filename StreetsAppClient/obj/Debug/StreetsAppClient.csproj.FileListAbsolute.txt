@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppClient\bin\Debug\StreetsAppClient.exe.config
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppClient\bin\Debug\StreetsAppClient.exe
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppClient\bin\Debug\StreetsAppClient.pdb
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppClient\obj\Debug\StreetsAppClient.csprojAssemblyReference.cache
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppClient\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppClient\obj\Debug\App.g.cs
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppClient\obj\Debug\StreetsAppClient_MarkupCompile.cache
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppClient\obj\Debug\StreetsAppClient_MarkupCompile.lref
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppClient\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppClient\obj\Debug\StreetsAppClient.g.resources
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppClient\obj\Debug\StreetsAppClient.Properties.Resources.resources
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppClient\obj\Debug\StreetsAppClient.csproj.GenerateResource.cache
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppClient\obj\Debug\StreetsAppClient.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppClient\obj\Debug\StreetsAppClient.exe
+C:\Users\User\source\repos\StreetsAppClient\StreetsAppClient\obj\Debug\StreetsAppClient.pdb

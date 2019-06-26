@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <street>
+    <name>Победы</name>
+    <index>010000</index>
+  </street>
+  <street>
+    <name>Иманова</name>
+    <index>010000</index>
+  </street>
+  <street>
+    <name>Карасай Батыра</name>
+    <index>010003</index>
+  </street>
+  <street>
+    <name>Карбышева</name>
+    <index>010004</index>
+  </street>
+  <street>
+    <name>Кенгир</name>
+    <index>010004</index>
+  </street>
+  <street>
+    <name>Майкондыр</name>
+    <index>010009</index>
+  </street>
+  <street>
+    <name>Московская</name>
+    <index>010000</index>
+  </street>
+  <street>
+    <name>Сказочный мир</name>
+    <index>010010</index>
+  </street>
+</root>
